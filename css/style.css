@@ -66,6 +66,10 @@ video {
 	transition: all .5s;
 }
 
+.navbar-brand>img{
+	display: inline;
+}
+
 .navbar-toggle {
 	margin-top: 15px;
 }
